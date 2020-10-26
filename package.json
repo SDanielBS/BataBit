@@ -1,0 +1,15 @@
+{
+  "name": "databit",
+  "version": "1.0.0",
+  "description": "Proyecto del curso de Mobil First en Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass ./src/scss -o ./src/css"
+  },
+  "author": "SDanielBS <bernuysergio.12@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
